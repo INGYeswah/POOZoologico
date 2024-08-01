@@ -17,13 +17,7 @@ public abstract class Animales {
     }
 
     public abstract String comer();
-
-    public void dormir(String animal) {
-        System.out.println("El " + animal + " " + nombre + " esta durmiendo");
-    }
-
-    ;
-    
+   
     public abstract String jugar();
 
 }
